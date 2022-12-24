@@ -1,23 +1,25 @@
 {
-    "todos": [
-      {
-        "message": "Added from API",
-        "id": 1
-      },
-      {
-        "message": "Added from API Again",
-        "id": 2
-      },
-      {
-        "message": "This is my request",
-        "id": 3
-      },
-      {
-        "message": "Added from frontend",
-        "id": 4
-      }
-    ],
-    "myNewEndPoint": {}
-  }
-  
-  
+  "todos": [
+    {
+      "message": "Added from API",
+      "id": 1
+    },
+    {
+      "message": "Added from API Again",
+      "id": 2
+    },
+    {
+      "message": "This is my request",
+      "id": 3
+    },
+    {
+      "message": "Added from frontend",
+      "id": 4
+    },
+    {
+      "message": "water plants",
+      "id": 5
+    }
+  ],
+  "myNewEndPoint": {}
+}
